@@ -17,3 +17,5 @@ I'm currently learning:
 Beginner — learning step by step and documenting everything here.
 
 This repository will track my progress.
+## Update
+Currently improving my skills and working on new AI-based projects. More updates coming soon.
